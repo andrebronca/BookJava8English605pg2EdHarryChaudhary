@@ -1,0 +1,13 @@
+# Compilados
+*.com
+*.class
+*.dll
+*.exe
+
+#pacotes
+*.7z
+*.rar
+*.zip
+
+#logs
+*.log
